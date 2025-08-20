@@ -1,4 +1,4 @@
-```md
+```zig
 > zig, rust & typeshit
-> trying to get gud....
+> trying to get gud...
 ```
